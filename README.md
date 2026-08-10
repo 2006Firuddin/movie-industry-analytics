@@ -11,7 +11,7 @@ By examining key metrics such as budget, gross revenue, IMDb ratings, genres, an
 * **Director & Actor Performance:** Analyzed box-office success associated with specific directors and star actors.
 * **Audience Engagement vs. Revenue:** Explored the correlation between IMDb user scores, vote counts, and gross revenue.
 ## 📁 Repository Structure
-├── Data/                   # Raw and cleaned dataset files
+├── Data /                   # Raw and cleaned dataset files
 ├── SQL/                    # SQL scripts for data extraction and querying
 ├── Python/                 # Python notebooks (.ipynb) for EDA and processing
 ├── Dashboards/             # Power BI (.pbix) and Excel dashboard files
