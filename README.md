@@ -12,10 +12,11 @@ By examining key metrics such as budget, gross revenue, IMDb ratings, genres, an
 * **Audience Engagement vs. Revenue:** Explored the correlation between IMDb user scores, vote counts, and gross revenue.
 ## 📁 Repository Structure
 ```text
-├── SQL/        # SQL scripts for data extraction and querying
-├── Python/     # Python notebooks (.ipynb) for EDA and processing
-├── Dashboards/ # Power BI (.pbix) and Excel dashboard files
-└── README.md   # Project documentation
+├── Excel/     # Excel datasets, tasks, and workbook files
+├── Power BI/  # Power BI reports (.pbix), datasets, and tasks
+├── Python/    # Python notebooks (.ipynb), datasets, and scripts
+├── SQL/       # SQL queries, datasets, and ER diagrams
+└── README.md  # Project documentation
 ```
 ## 👤 Author
 * **Firuddin Karimli**
