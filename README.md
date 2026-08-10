@@ -7,7 +7,7 @@ By examining key metrics such as budget, gross revenue, IMDb ratings, genres, an
 * **Data Processing & EDA:** Python (Pandas, NumPy)
 * **Data Visualization:** Power BI & MS Excel (Dashboards & Interactive Visualizations)
 * ## 🗄️ Database Architecture & ER Diagram
-![Database ER Diagram](erd_diagram.png)
+![Database ER Diagram](SQL LAYIHE(2)_erd_diagram.png)
 ## 📊 Key Insights & Findings
 * **Profitability & ROI:** Identified top-performing movie genres and production budgets that yield the highest Return on Investment.
 * **Director & Actor Performance:** Analyzed box-office success associated with specific directors and star actors.
