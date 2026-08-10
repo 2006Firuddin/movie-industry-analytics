@@ -16,8 +16,7 @@ By examining key metrics such as budget, gross revenue, IMDb ratings, genres, an
 ├── Python/                 # Python notebooks (.ipynb) for EDA and processing
 ├── Dashboards/             # Power BI (.pbix) and Excel dashboard files
 └── README.md               # Project documentation
-
-##👤 Author
+## 👤 Author
 * **Firuddin Karimli**
 * **LinkedIn:** [Firuddin Karimli](https://www.linkedin.com/in/firuddin-karimli-59580b255)
 * **Behance:** [Firuddin Karimli](https://www.behance.net/firuddinkrimli)
